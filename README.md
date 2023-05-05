@@ -4,6 +4,8 @@ The ARC Core is a small, pre programmed, low power board designed to run RGB LED
 ![Front of board](/assets/coref.png)
 ![Back of board](/assets/coreb.png)
 
+It is designed to be used on ARC RGB LED flex pcbs inside Game Boy consoles. The core is removable from these LED boards, aiming to reduce electronics waste by reprograming it
+
 ### Features
 - RP2040
 - 3.3V Buck Converter
