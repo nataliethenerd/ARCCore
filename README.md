@@ -27,4 +27,5 @@ A and B saves the settings
 
 ### Reusing
 To reuse the ARC CORE, short the boot pad and flash_nuke.uf2 the board. 
+
 https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182
