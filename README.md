@@ -9,6 +9,7 @@ It is designed to be used on ARC RGB LED flex pcbs inside Game Boy consoles. The
 
 ### Features
 - RP2040
+- NOR FLASH (W25Q32JVZPIQ)
 - 3.3V Buck Converter
 - Can power up to 10 WS2812B RGB LEDs
 
