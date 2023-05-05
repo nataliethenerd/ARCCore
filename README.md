@@ -11,11 +11,8 @@ The ARC Core is a small, pre programmed, low power board designed to run RGB LED
 
 ### How to use
 1. Connect the chain of WS2812B LED's data in pin to the DIN pin on the ARC Core
-
 2. Connect the 5V and GND to the LED chain and also a power source
-
 3. Connect three buttons, one to each A, B and C. One side of the button needs to be connected to the ARC Core's GND pin
-
 4. Control the LEDs as you would on the Game Boy.
 
 
