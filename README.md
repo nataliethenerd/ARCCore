@@ -1,6 +1,7 @@
 # ARCCore
 
 The ARC Core is a small, pre programmed, low power board designed to run RGB LEDs. It is ideal for portable devices such as game consoles using 3.3V - 5V (ideally 5V).
+
 ![Front of board](/assets/coref.png)
 ![Back of board](/assets/coreb.png)
 
