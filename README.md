@@ -1,11 +1,15 @@
 # ARCCore
 
 The ARC Core is a small, pre programmed, low power board designed to run RGB LEDs. It is ideal for portable devices such as game consoles using 3.3V - 5V (ideally 5V).
+
 ![Front of board](/assets/coref.png)
 ![Back of board](/assets/coreb.png)
 
+It is designed to be used on ARC RGB LED flex pcbs inside Game Boy consoles. The core is removable from these LED boards, aiming to reduce electronics waste by reprograming it
+
 ### Features
 - RP2040
+- NOR FLASH (W25Q32JVZPIQ)
 - 3.3V Buck Converter
 - Can power up to 10 WS2812B RGB LEDs
 
@@ -21,3 +25,8 @@ A and C changes the colour
 B and C changes the brightness
 
 A and B saves the settings
+
+### Reusing
+To reuse the ARC CORE, short the boot pad and flash_nuke.uf2 the board. 
+
+https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182
